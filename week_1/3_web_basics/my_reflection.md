@@ -7,3 +7,9 @@
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
 <!-- Add your reflection here. Remove the comment markers -->
+
+Remember to say that it is an HTML file.
+
+Excited to see something live! It could be very cool!
+
+I like to use codecademy for questions. Or I google it. Stackoverflow is helpful.
