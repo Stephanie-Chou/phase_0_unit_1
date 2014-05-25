@@ -11,3 +11,7 @@
 * Which parts of the challenge did you find tedious?
 
 <!-- Add your reflection here. Remove the comment markers -->
+
+Design and user experience is extremely interesting. It is all about solving the visual problem of how to convey information to a reader in a useful, meaningful way. I like design and user expereicne because it is so tangible. What you do and create is immediately visible and the smallest details can make a huge change to the overall end product.
+
+I have never created a wireframe before. It's interesting to create one because it feels almost finished. I think wireframes are useful tools for designers to use to communicate with the developer implementing the design.
